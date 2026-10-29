@@ -82,18 +82,15 @@ Jika menggunakan Code::Blocks, pilih **Build → Build and Run** atau tekan **F9
 
 Tambahkan screenshot asli hasil program pada bagian berikut.
 
-### 1. Menu Utama
+### 1. Foto 1
 
 ![Menu Utama](screenshots/menu-utama.png)
 
-### 2. Daftar Peralatan
+### 2. Foto 2
 
 ![Daftar Peralatan](screenshots/daftar-peralatan.png)
 
-### 3. Struk Penyewaan
+### 3. Foto 3
 
 ![Struk Penyewaan](screenshots/struk-penyewaan.png)
 
-### 4. Riwayat Transaksi
-
-![Riwayat Transaksi](screenshots/riwayat-transaksi.png)
