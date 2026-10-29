@@ -84,7 +84,7 @@ Tambahkan screenshot asli hasil program pada bagian berikut.
 
 ### 1. Foto 1
 
-![Foto1.jpeg](Foto1,jpeg)
+![Foto1.jpeg](Foto1.jpeg)
 
 ### 2. Foto 2
 
