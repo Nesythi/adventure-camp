@@ -84,13 +84,13 @@ Tambahkan screenshot asli hasil program pada bagian berikut.
 
 ### 1. Foto 1
 
-![Menu Utama](screenshots/menu-utama.png)
+![Foto1.jpeg](Foto1,jpeg)
 
 ### 2. Foto 2
 
-![Daftar Peralatan](screenshots/daftar-peralatan.png)
+![Foto2.jpeg](Foto2.jpeg)
 
 ### 3. Foto 3
 
-![Struk Penyewaan](screenshots/struk-penyewaan.png)
+![Foto3.jpeg](Foto3.jpeg)
 
